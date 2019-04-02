@@ -15,10 +15,12 @@ Some results of the FDA:
 # Citation
 If you find our code is useful for your research, pls cite our work:
 
+```
 @article{tu2019learning,
   title={Learning Generalizable and Identity-Discriminative Representations for Face Anti-Spoofing},
   author={Tu, Xiaoguang and Zhao, Jian and Xie, Mei and Du, Guodong and Zhang, Hengsheng and Li, Jianshu and Ma, Zheng and Feng, Jiashi},
   journal={arXiv preprint arXiv:1901.05602},
   year={2019}
 }
+```
 
