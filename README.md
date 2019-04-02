@@ -14,7 +14,7 @@ Some results of the FDA:
 
 
 # We add the test codes in the folder "test_codes"
-Usage: Tensorflow-1.12.0, python-2.7 // Download the "models.rar" package at： https://pan.baidu.com/s/1Y3VlXPhGUCSRhRSEmRYIWg using the password: "bafq". Put the package under the folder "models", extract it and then run the script: " 	interTest_anti_photo_merge_mfsd.py".
+Usage: Tensorflow-1.12.0, python-2.7 // Download the "models.rar" package at： https://pan.baidu.com/s/1Y3VlXPhGUCSRhRSEmRYIWg using the password: "bafq". Put the package under the folder "models", extract it and then run the script: " 	interTest_anti_photo_merge_mfsd.py". You may need to change the path in this script and also the path for the label txt file.
 
 # Citation
 If you find our code is useful for your research, pls cite our work:
