@@ -12,6 +12,9 @@ Some results of the FDA:
 
 ![SSS](https://user-images.githubusercontent.com/8948023/55400706-2caa2100-5581-11e9-95cb-52364136410d.png)
 
+
+# We add the test codes in the folder "test_codes"
+
 # Citation
 If you find our code is useful for your research, pls cite our work:
 
