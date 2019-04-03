@@ -10,7 +10,7 @@ python evaluate_inFolder_mfsdPhoto.py --allow-different-dimensions --checkpoint 
 ```
 Some results of the FDA:
 
-<img width="500" height="400" src="https://user-images.githubusercontent.com/8948023/55400706-2caa2100-5581-11e9-95cb-52364136410d.png"/>
+<img width="450" height="400" src="https://user-images.githubusercontent.com/8948023/55400706-2caa2100-5581-11e9-95cb-52364136410d.png"/>
 
 
 # We add the test code in the folder "test_codes"
