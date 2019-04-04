@@ -1,5 +1,5 @@
 # Our Generalizable Face AuthenticationCNN (GFA-CNN) is available at: https://arxiv.org/abs/1901.05602 
-This project is created by Tu Xiaoguang (xguangtu@outlook.com) 
+This project is created by Tu Xiaoguang (xguangtu@outlook.com). Any questions pls open issues for my project, I will reply quickly. 
 
 To facility the research in the community of face anti-spoofing, we release our test codes (including the model) for GFA-CNN, the training code will be available upon the acceptance of our paper.  
 
